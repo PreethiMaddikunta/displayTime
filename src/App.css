@@ -1,0 +1,19 @@
+*{
+  background-color:indigo;
+  color: white;
+  text-align: center;
+}
+.App {
+  display: flex;
+  justify-content:center;
+  font-family: Arial,sans-serif;
+  font-size: 25px;
+  flex-direction: column;
+  
+}
+
+
+
+
+
+
